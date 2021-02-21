@@ -4,6 +4,10 @@
 
 Calendar-App is a cooperative calendar application that can be used by teams.
 
+It is a personal project done to practice my skills working with React, Redux, MongoDB, as well as to practice my deployments.
+
+Feel free to clone the repository and modify it at your pleasure.
+
 #### Check the [back-end documentation](https://github.com/AlejoVE/calendar-app-backend)
 
 ## Prerequisites
@@ -45,3 +49,7 @@ Calendar-App is a cooperative calendar application that can be used by teams.
 ## Developer
 
 -  [Alejandro Montilla](https://github.com/AlejoVE)
+
+## License
+
+MIT License
