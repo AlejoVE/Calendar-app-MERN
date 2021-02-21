@@ -2,7 +2,7 @@
 
 ## You can check the app [here](https://calendar-app-mern.netlify.app/)
 
-Calendar-APp it's a cooperative calendar application that can be used by teams.
+Calendar-App is a cooperative calendar application that can be used by teams.
 
 #### Check the [back-end documentation](https://github.com/AlejoVE/calendar-app-backend)
 
