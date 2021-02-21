@@ -18,8 +18,6 @@ export const eventStartAddNew = (event) => {
 					name,
 				};
 
-				console.log(event);
-
 				dispatch(eventAddNew(event));
 			}
 		} catch (error) {
@@ -45,7 +43,6 @@ export const eventCleanActiveEvent = () => ({
 export const eventStartUpdate = (event) => {
 	 return async (dispatch) => {
 		  try {
-			  console.log(event)
 			  const resp =  await fetchWithToken(`events/${event.id}`, event, "PUT");
 			  const body = await resp.json()
 			  
